@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Github User Sub</string>
+    <string name="splash">Github User</string>
+    <string name="name">name</string>
+    <string name="username">username</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="repos">repository</string>
+    <string name="location">location</string>
+    <string name="company">company</string>
+    <string name="github_user">Github User</string>
+    <string name="search">search</string>
+    <string name="translate">translate</string>
+    <string name="follower_title">Follower</string>
+    <string name="following_title">Following</string>
+    <string name="setting">setting</string>
+    <string name="notfound">not found</string>
+
+    <string-array name="tab_title">
+        <item>@string/follower</item>
+        <item>@string/following</item>
+    </string-array>
+</resources>
